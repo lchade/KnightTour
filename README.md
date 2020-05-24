@@ -1,2 +1,3 @@
 # KnightTour
-Coming soon...
+Source code ready!
+ReadeMe coming soon!
